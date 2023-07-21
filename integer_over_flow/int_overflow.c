@@ -21,7 +21,7 @@ int main(int argc, char *argv[]){
 	
 	if (fun == NULL){
 		
-		return -1;
+		return 01;
 	}
 	for(x = 0; x < i; x++){
 		fun[x]= argv[2][x];
